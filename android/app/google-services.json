@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210202049734",
+    "project_id": "itc-flutter-db2f9",
+    "storage_bucket": "itc-flutter-db2f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210202049734:android:d3ea8f33413f5250706bc7",
+        "android_client_info": {
+          "package_name": "com.example.itc_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2u4ebkaKcHjxr8aZGCrsAFNIofYhHKo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
